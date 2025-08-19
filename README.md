@@ -1,4 +1,4 @@
-## Hello, everyone! My name's Welcome.
+## Hello, everybody! My name's Welcome.
 
 <!--
 **PolvoDumbo/PolvoDumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
