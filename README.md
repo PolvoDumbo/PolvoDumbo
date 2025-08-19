@@ -1,4 +1,5 @@
 ## Hello, everybody! My name's Welcome.
+<img width="241" height="270" alt="image" src="https://github.com/user-attachments/assets/80da407e-0aaa-441c-8c94-0b293025638a" />
 
 <!--
 **PolvoDumbo/PolvoDumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
