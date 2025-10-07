@@ -1,5 +1,5 @@
 ## Opa! Tudo bom?
-/Users/alunomanha/Downloads/larvinhamixuruca.gif
+larvinhamixuruca.gif
 
 <!--
 **PolvoDumbo/PolvoDumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
