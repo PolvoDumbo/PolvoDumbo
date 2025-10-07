@@ -1,5 +1,4 @@
-## Opa! Tudo bom?
-![larvinhamixuruca](https://github.com/user-attachments/assets/6a9228ed-0cb1-43d0-8c29-2602bbc20e95)
+## Opa! Tudo bom? ![larvinhamixuruca](https://github.com/user-attachments/assets/6a9228ed-0cb1-43d0-8c29-2602bbc20e95)
 
 
 <!--
