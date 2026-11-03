@@ -1,4 +1,5 @@
 # YEARNING FOR IT! ![larvinhamixuruca](https://github.com/user-attachments/assets/6a9228ed-0cb1-43d0-8c29-2602bbc20e95)
+<img width="241" height="270" alt="image" src="https://github.com/user-attachments/assets/c89291c8-7a11-4183-acd8-9856b6ad1769" />
 
 
 <!--
