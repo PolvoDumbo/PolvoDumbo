@@ -1,7 +1,5 @@
 # YEARNING FOR IT! ![larvinhamixuruca](https://github.com/user-attachments/assets/6a9228ed-0cb1-43d0-8c29-2602bbc20e95)
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0JalXjWPDApLk5OCH0JaVe?utm_source=generator&si=17cc7ef0b70b416c" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 
 <!--
 **PolvoDumbo/PolvoDumbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
