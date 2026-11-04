@@ -1,5 +1,3 @@
-# YEARNING FOR IT! ![larvinhamixuruca](https://github.com/user-attachments/assets/6a9228ed-0cb1-43d0-8c29-2602bbc20e95)
-
 [![BANGERS](https://github.com/PolvoDumbo/PolvoDumbo/blob/main/BANGERS_thumbnail.png)](https://open.spotify.com/playlist/0JalXjWPDApLk5OCH0JaVe?si=5515b67d4667433a)
 
 
